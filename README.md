@@ -1,7 +1,3 @@
-以下是根据你的 `PenguinTextOnImage` 自定义节点功能整理的简洁而专业的 `README.md` 内容，可直接用于 GitHub 或 ComfyUI 自定义节点文档：
-
----
-
 # 🐧 Comfyui-TextEditor-Penguin
 
 一个用于 **ComfyUI** 的文本叠加节点，支持渐变、描边、阴影等丰富效果，适用于在图像上添加高度自定义的文字内容。
