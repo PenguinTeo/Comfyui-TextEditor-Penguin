@@ -53,6 +53,14 @@
 1. 将项目放置到`custom_nodes/` 目录下（覆盖旧版本）。
 2. 确保存在 `font/` 目录，并放入所需字体文件（`.ttf` / `.ttc` / `.otf`）。
 3. 重启 ComfyUI
+
+## 📂 项目结构
+
+```
+Comfyui-TextEditor-Penguin/
+├── project.py        # 节点实现
+└── __init__.py       # 与 ComfyUI 的接口
+```
    
 ## 🛠 兼容性与备注
 
