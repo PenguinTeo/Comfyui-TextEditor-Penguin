@@ -2,7 +2,7 @@
 
 ---
 
-# 🐧 PenguinTextOnImage
+# 🐧 Comfyui-TextEditor-Penguin
 
 一个用于 **ComfyUI** 的文本叠加节点，支持渐变、描边、阴影等丰富效果，适用于在图像上添加高度自定义的文字内容。
 
