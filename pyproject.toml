@@ -1,0 +1,15 @@
+[project]
+name = "texteditor-penguin"
+description = "A text overlay node for ComfyUI that supports rich effects such as gradients, outlines, and shadows. It is suitable for adding highly customizable text content to images."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/PenguinTeo/Comfyui-TextEditor-Penguin"
+#  Used by Comfy Registry https://registry.comfy.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Comfyui-TextEditor-Penguin"
+Icon = ""
+includes = []
